@@ -20,7 +20,6 @@
 
 - 🏫 I'm now pursuing my Master’s in Aerospace Engineering at **ISAE-SUPAERO🚀, Toulouse**
 - 📫 Feel free to reach me via email: linyitao0315@gmail.com
-- 
 - ⚡ Fun fact: 
 
     🇹🇼 I speak Taiwanese… as a Chinese? 🤔
