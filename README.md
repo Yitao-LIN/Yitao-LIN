@@ -3,7 +3,7 @@
 
   💻 **Hardwares!** - I love low-level development and enjoy exploring the intricate details.
 
-  👨‍💻 **Coding!** - I truly grasp new concepts by implementing them through code.
+  👨‍💻 **Coding!** - I truly grasp new concepts by implementing them through code (C is beautiful).
 
   🤖 **AI!** - Isn't it fascinating to see computers simulating human-like thinking?
 
