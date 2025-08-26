@@ -6,7 +6,10 @@
 
   👨‍💻 **Coding!** – I truly grasp new concepts by implementing them through code (C is beautiful).  
 
-  🚩 **Real-world problems!** – Tackling practical challenges is the best way to learn and grow.  
+  🚩 **Real-world problems!** – Tackling practical challenges is the best way to learn and grow.
+
+  🔎 **Transparency!** – I avoid black-box systems and enjoy understanding what’s happening under the hood.  
+
 
 - **My keywords:**  
   **🔋 Embedded Systems | ✈️ Aerospace | 🤖 Deep Learning | 🧠 Neurodynamics**  
